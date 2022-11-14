@@ -1,1 +1,3 @@
-this is a first
+this is a file for checking diff
+changes are  done.
+testing reset command
