@@ -1,2 +1,3 @@
 this is a first line of the file
-testing diff command
+testing diff command.
+additional line
