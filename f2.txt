@@ -1,1 +1,2 @@
 testing diff command
+last line of the file

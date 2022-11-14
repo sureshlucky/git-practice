@@ -1,3 +1,2 @@
 this is a first line of the file
-this is a second and cloing the file.
 testing diff command
