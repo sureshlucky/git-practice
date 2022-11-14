@@ -1,3 +1,4 @@
 testing diff command
 last line of the file.
-tesitmg reset command
+tesitmg reset command.
+this is a last line of file
