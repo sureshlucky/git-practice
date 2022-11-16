@@ -1,4 +1,3 @@
-this is a file for checking diff
 changes are  done.
 suresh/kiranmai
 testing merge conflit senario
