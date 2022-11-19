@@ -1,2 +1,3 @@
 testing.
-added new line
+added new line.
+Added Rebase command
