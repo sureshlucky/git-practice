@@ -1,2 +1,8 @@
 testing diff command
+<<<<<<< HEAD
 last line of the file
+=======
+last line of the file.
+tesitmg reset command.
+this is a last line of file
+>>>>>>> new_branch
