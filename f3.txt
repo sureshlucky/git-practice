@@ -1,2 +1,0 @@
-this is a third file and testing reset commantesitn
-testing rebase 
