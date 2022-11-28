@@ -1,14 +1,1 @@
-changes are  done.
-suresh/kiranmai
-testing merge conflit senario
-testing branch
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-testing stash here
-=======
-testing merge concept
->>>>>>> Stashed changes
-=======
-testing stach
-stash is done.
->>>>>>> Stashed changes
+Deleted Unwanted data.
