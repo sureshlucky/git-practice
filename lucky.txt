@@ -1,0 +1,3 @@
+this is a text file for testing diff command
+third line added in lucky file
+ummadisetty suresh
